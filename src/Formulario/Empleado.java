@@ -27,6 +27,7 @@ public class Empleado extends javax.swing.JFrame {
     public Empleado() throws SQLException {
         initComponents();
           con= conexionPostgres.getConection();
+          //cambio insignificante
     }
 
     /**
