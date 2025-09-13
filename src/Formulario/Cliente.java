@@ -12,7 +12,10 @@ import javax.swing.JOptionPane;
  */
 public class Cliente extends javax.swing.JFrame {
 
+    
+    //texto sin importancia 2
     /**
+     * 
      * Creates new form Cliente
      */
     public Cliente() {
