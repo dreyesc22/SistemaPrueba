@@ -28,6 +28,7 @@ public class Empleado extends javax.swing.JFrame {
         initComponents();
           con= conexionPostgres.getConection();
           //cambio insignificante
+          //texto sin la mas minima importacnia 
     }
 
     /**
